@@ -14,7 +14,7 @@ spring:
                 
 # Test Details for Production Environment
 test:
-  details: Employee service details for production environment
+  details: Employee service details for production environment [From GitHub]
   engineer: Alice Johnson
   department: Production Testing
   engineerContact:
