@@ -14,7 +14,7 @@ spring:
                 
 # Test Details for Development Environment
 test:
-  details: Employee service details for development environment
+  details: Employee service details for development environment [From GitHub]
   engineer: John Doe
   department: Development Testing
   engineerContact:
