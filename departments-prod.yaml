@@ -15,7 +15,7 @@ spring:
       
 # Test Details for Prod Environment
 test:
-  details: Department service details for Prod environment
+  details: Department service details for Prod environment [From GitHub]
   engineer: Alice Johnson
   department: Prod Testing [Dept service]
   engineerContact:
