@@ -17,7 +17,7 @@ spring:
 test:
   details: Department service details for development environment [From GitHub]
   engineer: John Doe01
-  department: Development Testing [Dept service]
+  department: Development Testing [Category service]
   engineerContact:
     email: testengineer01.dev@example.com
     phone: 111-456-7890       
