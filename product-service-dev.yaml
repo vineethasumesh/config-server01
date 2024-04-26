@@ -3,7 +3,7 @@ server:
 spring:
     datasource:
         password: admin
-        url: jdbc:mysql://localhost:3306/employeesdatabase?useSSL=false
+        url: jdbc:mysql://localhost:3306/productdatabase?useSSL=false
         username: root
     jpa:
         hibernate:
